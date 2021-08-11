@@ -1,4 +1,4 @@
 # Description
 Simple Android noughts and crosses application written in Kotlin.
 
-<img src=https://i.postimg.cc/LshVcq15/game-Board.png> <img src=https://i.postimg.cc/4ybxZk2d/winner.png>
+<img src=https://i.postimg.cc/LshVcq15/game-Board.png width=300 height=500> <img src=https://i.postimg.cc/4ybxZk2d/winner.png width="300" height="500">
