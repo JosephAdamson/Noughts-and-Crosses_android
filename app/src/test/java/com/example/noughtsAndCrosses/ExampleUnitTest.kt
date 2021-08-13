@@ -1,4 +1,4 @@
-package com.example.tiktactoe
+package com.example.noughtsAndCrosses
 
 import org.junit.Test
 

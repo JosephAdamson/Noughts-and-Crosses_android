@@ -1,4 +1,4 @@
-package com.example.tiktactoe
+package com.example.noughtsAndCrosses
 
 import android.app.Activity
 import android.content.Intent

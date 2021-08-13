@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tiktactoe">
+    package="com.example.noughtsAndCrosses">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TikTacToe">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.noughtsAndCrosses.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".EndGamePop"
+        <activity android:name="com.example.noughtsAndCrosses.EndGamePop"
             android:theme="@style/CustomTheme">
         </activity>
     </application>
