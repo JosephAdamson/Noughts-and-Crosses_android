@@ -8,9 +8,9 @@ import java.io.Serializable
  *
  * Simple game logic
  */
-class GameState : Serializable {
+class GameState {
 
-    // 0 for noughts (player 1), 1 for crosses (Player 2). Naughts goes first.
+    // 0 for noughts (player 1), 1 for crosses (Player 2). Noughts goes first.
     var activePlayer: Int = 0
 
     var availableSquares: Int = 9
